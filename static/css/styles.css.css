@@ -20,6 +20,19 @@ body {
 	background: #fff url(https://previews.123rf.com/images/vireakchandara/vireakchandara1111/vireakchandara111100013/11101367-vector-poker-background.jpg); 
 	margin: 0; 
 	padding: 0;
+	color: white;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul li {
+	float: left;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
 	}
 p { 
 	margin-top: 0; 
