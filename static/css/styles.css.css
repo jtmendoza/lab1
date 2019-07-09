@@ -23,8 +23,7 @@ body {
 	background: #fff url(images/poker1.jpg), url(https://d33wubrfki0l68.cloudfront.net/745537632752c917ed940755eef83c376f7b1525/c1a49/assets/images/blog/fade-to-black-header.jpg);
 	margin: 0; 
 	padding: 0;
-	background-position: top, bottom;
-	background-repeat: repeat-x, repeat-y;
+	background-repeat: no-repeat, no-repeat;
 	color: white;
 }
 ul {
