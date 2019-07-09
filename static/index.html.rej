@@ -1,0 +1,10 @@
+diff a/static/index.html b/static/index.html	(rejected hunks)
+@@ -19,7 +19,7 @@
+ 		<!-- h1 through h6 are headers. The higher the number, the smaller the header -->
+ 		<!-- p means paragraph -->
+ 		<div>
+-			<h1>Joe Gene Quesada - MI182</h1>
++			<h1>Jerico Ger Mendoza SF181/NS181/MI183</h1>
+ 			<p>human-computer interaction &middot; social computing &middot; crowdsourcing</p>
+ 		</div>
+ 
