@@ -14,7 +14,9 @@ h1 {
   }
 h2 {
 	text-shadow: 8px 7px rgb(7, 7, 7);
+	font-size: 40px;
   }
+  
 html {
 	margin: 0;
 	padding: 0;
