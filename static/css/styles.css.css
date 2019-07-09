@@ -80,7 +80,7 @@ abbr {
 	width: 100%;
 	}
 header h2 { 
-	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
+	background: white url(http://csszengarden.com/001/h2.gif); 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
