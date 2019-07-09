@@ -24,7 +24,7 @@ body {
 	margin: 0; 
 	padding: 0;
 	background-position: top, bottom;
-	background-repeat: repeat-x;
+	background-repeat: repeat-x, repeat-y;
 	color: white;
 }
 ul {
