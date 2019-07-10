@@ -14,8 +14,7 @@ h1 {
   }
 h2 {
 	text-shadow: 8px 7px rgb(7, 7, 7);
-	font-size: 50px;
-	font-style: inherit;
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 40px; font-style: italic; font-variant: normal; font-weight: 400; line-height: 44px;
 }
 .class { 
 	font-family: Copperplate,Copperplate Gothic Light,fantasy; 
