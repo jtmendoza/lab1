@@ -25,7 +25,7 @@ body {
 	font: 100% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #070707; 
-	background: #fff url(images/poker1.jpg);
+	background: #fff url(images/black77.jpg);
 	margin: 0; 
 	padding: 0;
 	color: white;
@@ -100,6 +100,14 @@ h5 {
 	color: rgb(247, 244, 232);
 	border-radius: 8px;
 }
+h6 { 
+	font: georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	font-size: 25px;
+	color: rgb(247, 244, 232);
+	border-radius: 8px;
+}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
@@ -126,7 +134,7 @@ abbr {
 	margin: 0; 
 	position: relative;
 	}
-
+  
 .intro { 
 	min-width: 470px;
 	width: 100%;
@@ -137,9 +145,12 @@ header h2 {
 	padding: 0; 
 	background-repeat: no-repeat
 	}
-header {
-	padding-top: 20px;
-	height: 87px;
+header h1 {
+	background: white url(https://previews.123rf.com/images/vireakchandara/vireakchandara1111/vireakchandara111100013/11101367-vector-poker-background.jpg);
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-repeat: no-repeat  
 }
 
 .summary {
@@ -243,4 +254,8 @@ div.gallery {
 	padding: 15px;
 	text-align: center;
   }
+
+  div.b {
+	font-size: 250%;
+}
 }
