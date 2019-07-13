@@ -34,13 +34,28 @@
 			<li><a href="#z1">ABOUT</a></li>
 			<li><a href="#v1v">PETS</a></li>
 			<li><a href="#d8">LIKES</a></li>
-				
+			<div class="galery">
+			
+			
+			</div>		
 		</ul>
+		
 
 
 </head>
 
 <body class="w3-black">
+
+	
+
+		<script>
+				function myFunction() {
+				  var x = document.getElementById("myAudio").autoplay;
+				  document.getElementById("demo").innerHTML = x;
+				}
+				</script>
+
+	
 	<div>
 		<!-- h1 through h6 are headers. The higher the number, the smaller the header -->
 		<!-- p means paragraph -->
@@ -50,11 +65,13 @@
 			<p id="c4"></p>
 		</div>	
 		<div align="center">
-		<audio controls>
-				<source src="audio/Lucifer Soundtrack Season 1 Main Theme by Heavy Young Heathens.mp3" type="audio/ogg">
-				<source src="audio/Lucifer Soundtrack Season 1 Main Theme by Heavy Young Heathens.mp3" type="audio/mpeg">
+				<audio id="myAudio" controls autoplay>
+						<source src="audio/Lucifer Soundtrack Season 1 Main Theme by Heavy Young Heathens.mp3" type="audio/mpeg">
+						Your browser does not support the audio element.
+					  </audio>
 		 </audio>
 		</div>
+		
 		<img src="images/source.jpeg">
 
 		<h2 id="z1" style="text-align:center"></h2>
@@ -125,14 +142,20 @@
 			
 						  <img src="images/source.jpeg">
 
+						  
+
 					   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
 						<h6 class="w3-text-light-grey">CONTACT</h6>
+						<div align="center"> 
 						<hr style="width:200px" class="w3-opacity">
+					</div>
 					   <div class="w3-section">
 						<p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: 09773476986</p>
 						<p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: jtmendoza@student.apc.edu.ph</p>
 					  </div><br>
-					
+								
+					  
+					  
 		</div>
 		</div>
 </body>
