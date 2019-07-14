@@ -24,9 +24,12 @@ html {
 	padding: 0;
 	}
 body { 
-	margin: 0; 
-	padding: 0;
+	width: 100vw;
+	background-color: #1D1D1D;
+	margin: 0;
+	font-family: helvetica;	
 }
+
 
 section
 {
@@ -113,7 +116,7 @@ ul {
 	overflow: hidden;
 	position: fixed;
 	text-align: center;
-	height: 60px;
+	height: 45px;
 	background-color: rgb(2, 2, 2);
 	top: 0;
 	width: 100%;
@@ -157,7 +160,8 @@ h3 {
 	}
 
 h4 { 
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 44px;
+	text-shadow: 3px 3px rgb(43, 42, 42);
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	text-align: center;
@@ -166,13 +170,14 @@ h4 {
 	
 	}
 	img {
-		border-radius: 20px;
+		border-radius: 5px;
 		display: block;
   		margin-left: auto;
 		margin-right: auto;		;
 	  }
 h5 { 
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 44px;
+	text-shadow: 3px 2px rgb(43, 42, 42);
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	text-align: center;
@@ -181,7 +186,8 @@ h5 {
 
 }
 h6 { 
-	font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 44px;
+	text-shadow: 3px 2px rgb(43, 42, 42);
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	text-align: center;
