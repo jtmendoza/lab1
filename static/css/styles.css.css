@@ -160,7 +160,7 @@ h3 {
 	}
 
 h4 { 
-	text-shadow: 3px 3px rgb(43, 42, 42);
+	text-shadow: 14px 14px rgb(43, 42, 42);
 	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
@@ -176,7 +176,7 @@ h4 {
 		margin-right: auto;		;
 	  }
 h5 { 
-	text-shadow: 3px 2px rgb(43, 42, 42);
+	text-shadow: 14px 14px rgb(43, 42, 42);
 	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
@@ -186,7 +186,7 @@ h5 {
 
 }
 h6 { 
-	text-shadow: 3px 2px rgb(43, 42, 42);
+	text-shadow: 14px 14px rgb(43, 42, 42);
 	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 40px; font-style: normal;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
