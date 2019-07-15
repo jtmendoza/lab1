@@ -36,7 +36,7 @@ section
 	position: relative;
 	width: 100%;
 	height: 100vh;
-	background: url(images/ggg.jpg);
+	background: url(images/ggg222.jpg);
 	
 }
 section:before
@@ -47,7 +47,7 @@ section:before
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: url(images/ggg.jpg);
+	background: url(images/ggg222.jpg);
 	opacity: .5;
 	mix-blend-mode: hard-light;
 }
